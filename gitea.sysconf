@@ -1,0 +1,4 @@
+USER=git
+HOME=/home/git
+GITEA_WORK_DIR=/home/git
+GITEA_CUSTOM=/home/git/custom
